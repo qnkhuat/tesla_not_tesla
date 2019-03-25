@@ -4,7 +4,6 @@ import shutil
 
 
 
-
 for cl in ['tesla','others']:
     
     os.makedirs(f'data/train/{cl}',exist_ok=True)
