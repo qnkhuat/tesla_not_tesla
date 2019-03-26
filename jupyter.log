@@ -1,18 +1,20 @@
 nohup: ignoring input
-[I 13:53:12.430 LabApp] The port 8888 is already in use, trying another port.
-[I 13:53:12.447 LabApp] JupyterLab extension loaded from /home/qnkhuat/miniconda3/envs/dev/lib/python3.6/site-packages/jupyterlab
-[I 13:53:12.447 LabApp] JupyterLab application directory is /home/qnkhuat/miniconda3/envs/dev/share/jupyter/lab
-[W 13:53:12.451 LabApp] JupyterLab server extension not enabled, manually loading...
-[I 13:53:12.463 LabApp] JupyterLab extension loaded from /home/qnkhuat/miniconda3/envs/dev/lib/python3.6/site-packages/jupyterlab
-[I 13:53:12.463 LabApp] JupyterLab application directory is /home/qnkhuat/miniconda3/envs/dev/share/jupyter/lab
-[I 13:53:12.463 LabApp] Serving notebooks from local directory: /home/qnkhuat/AI/vision/tesla_not_tesla
-[I 13:53:12.463 LabApp] The Jupyter Notebook is running at:
-[I 13:53:12.463 LabApp] http://localhost:8889/?token=afec04925f2974c18bf51f17096b62c934b51372fcef8cc3
-[I 13:53:12.463 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[W 13:53:12.467 LabApp] No web browser found: could not locate runnable browser.
-[C 13:53:12.467 LabApp] 
+[I 04:57:26.279 LabApp] The port 8888 is already in use, trying another port.
+[I 04:57:26.279 LabApp] The port 8889 is already in use, trying another port.
+[I 04:57:26.305 LabApp] JupyterLab extension loaded from /home/qnkhuat/miniconda3/envs/dev/lib/python3.6/site-packages/jupyterlab
+[I 04:57:26.305 LabApp] JupyterLab application directory is /home/qnkhuat/miniconda3/envs/dev/share/jupyter/lab
+[W 04:57:26.312 LabApp] JupyterLab server extension not enabled, manually loading...
+[I 04:57:26.324 LabApp] JupyterLab extension loaded from /home/qnkhuat/miniconda3/envs/dev/lib/python3.6/site-packages/jupyterlab
+[I 04:57:26.324 LabApp] JupyterLab application directory is /home/qnkhuat/miniconda3/envs/dev/share/jupyter/lab
+[I 04:57:26.324 LabApp] Serving notebooks from local directory: /home/qnkhuat/AI/vision/tesla_not_tesla
+[I 04:57:26.325 LabApp] The Jupyter Notebook is running at:
+[I 04:57:26.325 LabApp] http://localhost:8890/?token=ffff7a6206c812502279d6e82e32ef5b7fa889d742eb93d7
+[I 04:57:26.325 LabApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 04:57:26.331 LabApp] No web browser found: could not locate runnable browser.
+[C 04:57:26.331 LabApp] 
     
     To access the notebook, open this file in a browser:
-        file:///run/user/1001/jupyter/nbserver-22633-open.html
+        file:///run/user/1001/jupyter/nbserver-15934-open.html
     Or copy and paste one of these URLs:
-        http://localhost:8889/?token=afec04925f2974c18bf51f17096b62c934b51372fcef8cc3
+        http://localhost:8890/?token=ffff7a6206c812502279d6e82e32ef5b7fa889d742eb93d7
+[I 15:48:51.037 LabApp] 302 GET /?token=ffff7a6206c812502279d6e82e32ef5b7fa889d742eb93d7 (127.0.0.1) 0.80ms
